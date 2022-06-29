@@ -1,5 +1,5 @@
 # MyWorld Open Source Packages
-The [MyWorld Project] publishes a growing number of open source libraries. This repository is a placeholder for publication of Maven artifacts
+The [MyWorld Project](https://myworldvw.com) publishes a growing number of open source libraries. This repository is a placeholder for publication of Maven artifacts
 via GitHub Packages.
 
 To use these artifacts in your Gradle builds, add the following to your build script:
