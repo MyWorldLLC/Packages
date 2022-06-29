@@ -16,12 +16,12 @@ def getGitCredentials(){
 gitCredentials = getGitCredentials()
 repositories {
   maven {
-		url 'https://maven.pkg.github.com/MyWorldLLC/Packages'
-		credentials {
-			username System.getenv("GITHUB_USER") ?: gitCredentials["username"]
-			password System.getenv("GITHUB_TOKEN") ?: gitCredentials["password"]
-		}
-	}
+    url 'https://maven.pkg.github.com/MyWorldLLC/Packages'
+    credentials {
+      username System.getenv("GITHUB_USER") ?: gitCredentials["username"]
+      password System.getenv("GITHUB_TOKEN") ?: gitCredentials["password"]
+    }
+  }
 }
 ```
 
