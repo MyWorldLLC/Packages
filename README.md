@@ -30,7 +30,7 @@ The `getGitCredentials()` helper function can be replaced with any other mechani
 [GitHub's docs](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages#authenticating-to-github-packages)
 for help with authentication issues.
 
-## Packages
+## Projects
 
 - [Obsidian](https://github.com/MyWorldLLC/Obsidian)
 - [Obsidian-jME](https://github.com/MyWorldLLC/Obsidian-jME)
